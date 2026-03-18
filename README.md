@@ -1,8 +1,13 @@
 # stats220
-
+This is my repo for STATS 220. 
 *Qianru Zhang 267630001 project1*
 
-I have many hobbies：
+A little about me:
+- I am undertaking a bachelor's degree.
+- I am taking STATS 220 because it is quite interesting.
+- I am interested in learning about how to create animated GIFs.
+
+My hobbies：
 1. Felines
  * Cat
  * Leopard
