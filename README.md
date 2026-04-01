@@ -1,5 +1,6 @@
 # stats220
 This is my repo for STATS 220. 
+
 *Qianru Zhang 267630001 project1*
 
 A little about me:
